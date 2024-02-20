@@ -67,4 +67,4 @@ Data visualization is the representation of data through use of common graphics,
 3. Because the Product Category of Training Videos is in the top 5 final levels, with sales numbers quite far from the other top 5. it's better if we just reduce the number of Product Categories of Training Videos. <br>
 **[Link Presentation](https://github.com/ariniamsr/Kimia-Farma-Big-Data-Analytics-Project-Based-Internship-Program/blob/main/Tugas_5%20-%20Arini%20-%20Big%20Data%20Analytics%20Kimiafarma.pdf)**
 
-                                                                          ***🌻Thank You🌻***
+***🌻Thank You🌻***
