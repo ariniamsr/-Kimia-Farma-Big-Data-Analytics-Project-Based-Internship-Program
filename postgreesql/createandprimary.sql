@@ -35,13 +35,3 @@ CREATE TABLE penjualan (
 	brand_id CHAR VARYING(10),
 	lini CHAR VARYING(30)
 );
-
-
---PRIMARY KEY
-ALTER TABLE penjualan ADD PRIMARY KEY (id_invoice);
---ALTER TABLE pelanggan ADD PRIMARY KEY (id_customer);
-ALTER TABLE barang ADD PRIMARY KEY (kode_barang);
-
---Foreign Key
-ALTER TABLE penjualan ADD CONSTRAINT fk_id_customer FOREIGN KEY (id_customer) REFERENCES pelanggan(id_customer);
-ALTER TABLE penjualan ADD CONSTRAINT fk_barang FOREIGN KEY (id_barang) REFERENCES barang(kode_barang);
